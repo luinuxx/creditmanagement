@@ -1,0 +1,20 @@
+{
+    "promotor": "SLP34/CURP",
+    "empresa": "XXXXX",
+    "cliente": {
+        "nombre": "PERLA TOMASA",
+        "apellidoPaterno": "CABRERA",
+        "apellidoMaterno": "ROMAN"
+    },
+    "solicitud": {
+        "idSolicitud": "110102044798",
+        "monto": 167000,
+        "producto": "IMSS",
+        "tipoSolicitudStr": "CREDITO NUEVO",
+        "idTipoSolicitud": "394",
+        "tasa": 39,
+        "plazo": 0,
+        "frecuencia": "Semanal/Mensual/Catorcenal",
+        "fechaSolicitud": "20220727"
+    }
+}

@@ -1,0 +1,14 @@
+spring:
+  profiles: 'test'
+services:
+  postgres:
+    image: 'postgres:latest'
+    ports:
+      - '8326:5432'
+    environment:
+      - 'POSTGRES_DB=credit-management'
+      - 'POSTGRES_PASSWORD=Lu1nuX-26'
+      - 'POSTGRES_USER=postgres'
+      - 'SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:8326/credit-management'
+      - 'DB_USERNAME=postgres'
+      - 'DB_PASSWORD=Lu1nuX-26'
