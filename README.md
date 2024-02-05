@@ -6,7 +6,6 @@ Este proyecto implementa servicios para la gestión de solicitudes de crédito, 
 ## Estructura del Proyecto
 - **alta-solicitudes:** Contiene el servicio de alta de solicitudes.
 - **modificacion-estatus:** Contiene el servicio de modificación de estatus de solicitudes.
-- **documentacion:** Contiene documentación adicional del proyecto.
 
 ## Tecnologías Utilizadas
 - Java
